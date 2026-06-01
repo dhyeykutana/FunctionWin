@@ -2,7 +2,7 @@
 
 **Natural language control for Windows — runs 100% locally.**
 
-Windows port of [FunctionMac](https://github.com/krupagaliya/FunctionMac) by [@krupagaliya](https://github.com/krupagaliya).
+Created by [Dhyey Kutana](https://github.com/dhyeykutana), taking reference from [FunctionMac](https://github.com/krupagaliya/FunctionMac).
 
 Uses **FunctionGemma** (open weights) with **Ollama** to translate plain English into executable Windows actions — fully on-device. No cloud. No data leaving your machine.
 
@@ -123,5 +123,4 @@ FunctionWin/
 
 ## 📜 Credits
 
-Original project: **FunctionMac** by [Krupa Galiya](https://github.com/krupagaliya/FunctionMac)  
-Windows port architecture mirrors the original design 1:1.
+**FunctionWin** created by [Dhyey Kutana](https://github.com/dhyeykutana), taking reference from [FunctionMac](https://github.com/krupagaliya/FunctionMac).
