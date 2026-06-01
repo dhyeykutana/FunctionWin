@@ -52,7 +52,7 @@ ollama pull functiongemma:270m
 ### 4a. Run the Streamlit web app
 
 ```bash
-streamlit run streamlit_app.py
+python -m streamlit run streamlit_app.py
 ```
 
 ### 4b. Or use the CLI
