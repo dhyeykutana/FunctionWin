@@ -1,0 +1,25 @@
+# FunctionWin - Windows port of FunctionMac
+# Core
+ollama>=0.1.0
+streamlit>=1.28.0
+
+# System & automation
+psutil>=5.9.0
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+
+# Data & math
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Networking
+requests>=2.31.0
+
+# QR Code (optional)
+qrcode[pil]>=7.4.2
+
+# Image
+Pillow>=10.0.0
+
+# Windows-specific (only on Windows)
+pywin32>=306; sys_platform == "win32"
